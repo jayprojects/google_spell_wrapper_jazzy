@@ -12,6 +12,10 @@ You can deploy this to your server then simply change your google spellcheck url
 For example 
 From “https://www.google.com/tbproxy/spell?lang=” to say “https://yoursite.com/google_spell_wrapper_jazzy/spellcheck.jsp?lang=”
 
-Disclaimer
-======================
+Note
+=====
 This is a quick fix, I haven’t looked into Jazzy’s code in depth, also I ignored some of the functionality that google spellchecker had such as (ignoredups, ignoredigits, ignoreallcaps). Not to mention that the dictionary file itself is not as rich.
+
+LICENSE
+=========
+The project is released under MIT License. See details on LICENSE file.
